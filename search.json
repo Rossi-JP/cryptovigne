@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "dia-2025-I-10.html#merci-pour-votre-attention",
+    "href": "dia-2025-I-10.html#merci-pour-votre-attention",
+    "title": "Projet Cryptovigne",
+    "section": "Merci pour votre attention !",
+    "text": "Merci pour votre attention !\n \n\n\nDes questions ?\n\n\nContactez-moi :\n\n\nEmail : Jean-Pierre.Rossi@inrae.fr\n\n\nPage projet : le modèle Cryptoblabes gnidiella\n\n\n\n\nhttps://rossi-jp.github.io/home/"
+  },
+  {
+    "objectID": "carto.html",
+    "href": "carto.html",
+    "title": "Cryptoblabes gnidiella",
+    "section": "",
+    "text": "Cartographie des données GBIF retenues et nettoyées et des données biblio additionnelles"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cryptoblabes gnidiella",
+    "section": "",
+    "text": "Réunion du 10 janvier 2025 :"
+  },
+  {
+    "objectID": "ancien-code.html",
+    "href": "ancien-code.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "[1] TRUE"
+  },
+  {
+    "objectID": "ancien-code.html#liste-des-issues",
+    "href": "ancien-code.html#liste-des-issues",
+    "title": "Untitled",
+    "section": "",
+    "text": "[1] TRUE"
+  },
+  {
+    "objectID": "ancien-code.html#nettoyage",
+    "href": "ancien-code.html#nettoyage",
+    "title": "Untitled",
+    "section": "Nettoyage",
+    "text": "Nettoyage\n\nretirer\n\nZERO_COORDINATE\nBASIS_OF_RECORD_INVALID"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "occurrences.html",
+    "href": "occurrences.html",
+    "title": "Occurrences",
+    "section": "",
+    "text": "“Cryptoblabes_gnidiella”\n“2024-09-16”\n“GBIF Occurrence Download https://doi.org/10.15468/dl.a4fjk5 Accessed from R via rgbif (https://github.com/ropensci/rgbif) on 2024-09-16”\n\n\n\n\n\n                                                 v3\n1                             AMBIGUOUS_INSTITUTION\n2                           BASIS_OF_RECORD_INVALID\n3                            COLLECTION_MATCH_FUZZY\n4                             COLLECTION_MATCH_NONE\n5                     CONTINENT_COORDINATE_MISMATCH\n6                CONTINENT_DERIVED_FROM_COORDINATES\n7                    CONTINENT_DERIVED_FROM_COUNTRY\n8                      COORDINATE_PRECISION_INVALID\n9                                COORDINATE_ROUNDED\n10                 COUNTRY_DERIVED_FROM_COORDINATES\n11                                 COUNTRY_MISMATCH\n12                           FOOTPRINT_WKT_MISMATCH\n13                     GEODETIC_DATUM_ASSUMED_WGS84\n14                          IDENTIFIED_DATE_INVALID\n15                  INSTITUTION_COLLECTION_MISMATCH\n16                          INSTITUTION_MATCH_FUZZY\n17                           INSTITUTION_MATCH_NONE\n18                            MODIFIED_DATE_INVALID\n19                          MULTIMEDIA_DATE_INVALID\n20 OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT\n21                     OCCURRENCE_STATUS_UNPARSABLE\n22                                TAXON_MATCH_FUZZY\n23             TAXON_MATCH_TAXON_CONCEPT_ID_IGNORED\n24                     TAXON_MATCH_TAXON_ID_IGNORED\n25                              TYPE_STATUS_INVALID\n26                                  ZERO_COORDINATE\n\n\n\n\n\n\n\n\n\n\n\nretirer\n\nZERO_COORDINATE\nBASIS_OF_RECORD_INVALID\n\nsauve\n\n01-data/00-gbif/01-gbif-propre.RData"
+  },
+  {
+    "objectID": "occurrences.html#liste-des-issues",
+    "href": "occurrences.html#liste-des-issues",
+    "title": "Occurrences",
+    "section": "",
+    "text": "v3\n1                             AMBIGUOUS_INSTITUTION\n2                           BASIS_OF_RECORD_INVALID\n3                            COLLECTION_MATCH_FUZZY\n4                             COLLECTION_MATCH_NONE\n5                     CONTINENT_COORDINATE_MISMATCH\n6                CONTINENT_DERIVED_FROM_COORDINATES\n7                    CONTINENT_DERIVED_FROM_COUNTRY\n8                      COORDINATE_PRECISION_INVALID\n9                                COORDINATE_ROUNDED\n10                 COUNTRY_DERIVED_FROM_COORDINATES\n11                                 COUNTRY_MISMATCH\n12                           FOOTPRINT_WKT_MISMATCH\n13                     GEODETIC_DATUM_ASSUMED_WGS84\n14                          IDENTIFIED_DATE_INVALID\n15                  INSTITUTION_COLLECTION_MISMATCH\n16                          INSTITUTION_MATCH_FUZZY\n17                           INSTITUTION_MATCH_NONE\n18                            MODIFIED_DATE_INVALID\n19                          MULTIMEDIA_DATE_INVALID\n20 OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT\n21                     OCCURRENCE_STATUS_UNPARSABLE\n22                                TAXON_MATCH_FUZZY\n23             TAXON_MATCH_TAXON_CONCEPT_ID_IGNORED\n24                     TAXON_MATCH_TAXON_ID_IGNORED\n25                              TYPE_STATUS_INVALID\n26                                  ZERO_COORDINATE"
+  },
+  {
+    "objectID": "occurrences.html#nettoyage-des-issues-de-gbif",
+    "href": "occurrences.html#nettoyage-des-issues-de-gbif",
+    "title": "Occurrences",
+    "section": "",
+    "text": "retirer\n\nZERO_COORDINATE\nBASIS_OF_RECORD_INVALID\n\nsauve\n\n01-data/00-gbif/01-gbif-propre.RData"
+  }
+]
